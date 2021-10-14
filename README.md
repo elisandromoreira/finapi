@@ -14,7 +14,7 @@ Uma API financeira criada para estudos de NodeJS.
 - [✔]Deve ser possível atualizar os dados da conta do cliente
 - [✔]Deve ser possível obter dados da conta do cliente
 - [✔]Deve ser possível deletar uma conta
-- [ ]Deve ser possível retornar o balanço
+- [✔]Deve ser possível retornar o balanço
 
 ---
 
