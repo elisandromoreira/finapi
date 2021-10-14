@@ -13,7 +13,7 @@ Uma API financeira criada para estudos de NodeJS.
 - [✔]Deve ser possível buscar o extrato bancário do cliente por data
 - [✔]Deve ser possível atualizar os dados da conta do cliente
 - [✔]Deve ser possível obter dados da conta do cliente
-- [ ]Deve ser possível deletar uma conta
+- [✔]Deve ser possível deletar uma conta
 - [ ]Deve ser possível retornar o balanço
 
 ---
@@ -25,4 +25,4 @@ Uma API financeira criada para estudos de NodeJS.
 - [✔]Não deve ser possível fazer depósito  em uma conta não existente
 - [✔]Não deve ser possível fazer saque em uma conta não existente
 - [✔]Não deve ser possível fazer o saque quando o saldo for insuficiente
-- [ ]Não deve ser possível excluir uma conta não existente
+- [✔]Não deve ser possível excluir uma conta não existente
